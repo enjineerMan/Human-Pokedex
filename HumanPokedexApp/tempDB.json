@@ -1,0 +1,12 @@
+{
+    "users": {
+        "person1": {
+            "location": "Toronto",
+            "description": "Person1 was encountered at the park. He is a heart surgeon and has a labradoodle."
+        },
+        "person2":{
+            "location": "Waterloo",
+            "description": "Person2 was encountered in <workplace>. She is the head of sales."
+        }
+    }
+}

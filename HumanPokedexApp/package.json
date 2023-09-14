@@ -1,0 +1,27 @@
+{
+  "name": "humanpokedex",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@google-cloud/speech": "^6.0.1",
+    "expo": "~49.0.5",
+    "expo-file-system": "~15.4.3",
+    "expo-splash-screen": "~0.20.5",
+    "expo-status-bar": "~1.6.0",
+    "microsoft-cognitiveservices-speech-sdk": "^1.31.0",
+    "node-record-lpcm16": "^1.0.1",
+    "react": "18.2.0",
+    "react-native": "0.72.4",
+    "react-native-fs": "^2.20.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
